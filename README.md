@@ -58,8 +58,7 @@ The entered card number is also displayed dynamically on the virtual bank card.
 ## 🌐 Live Demo
 
 👉 **Live Demo:**  
-https://negarlmd.github.io/Bank-Card/
-
+https://negarlmd.github.io/Card-Bank/)
 ---
 
 ## 💻 GitHub
