@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Bank Card</title>
+
+  <link rel="stylesheet" href="./src/master.css">
+</head>
+
+<body>
+
+  <main>
+
+    <!-- Bank Card -->
+    <div class="bank-card">
+
+      <div class="top">
+        <div class="bank-name">
+          NEGAR<span>BANK</span>
+        </div>
+
+        <div class="card-type">
+          PLATINUM
+        </div>
+      </div>
+
+      <div class="chip">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+
+      <div class="wifi">
+      
+      </div>
+
+      <h1>•••• •••• •••• ••••</h1>
+
+      <div class="bottom">
+
+        <div>
+          <small>CARD HOLDER</small>
+          <p>NEGAR MOHAMADI</p>
+        </div>
+
+        <div>
+          <small>VALID THRU</small>
+          <p>06/28</p>
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <!-- Input Card -->
+    <div class="card">
+
+      <div class="title">
+        <span></span>
+        ENTER CARD DETAILS
+        <span></span>
+      </div>
+
+      <label>CARD NUMBER</label>
+
+      <!-- IMPORTANT:
+           These inputs must stay directly inside .card
+      -->
+
+      <input type="text" maxlength="4">
+      <input type="text" maxlength="4">
+      <input type="text" maxlength="4">
+      <input type="text" maxlength="4">
+
+      <div class="cvv">
+
+        <label>CVV2</label>
+
+        <input id="cvv2" type="text" maxlength="3">
+
+      </div>
+
+      <button>
+        CONFIRM PAYMENT
+        <span>→</span>
+      </button>
+
+      <div class="security">
+
+        <span>🔒 256-BIT SSL</span>
+        <span>🔐 SECURE PAYMENT</span>
+        <span>✓ PCI DSS</span>
+
+      </div>
+
+    </div>
+
+    <!-- ================= FOOTER ================= -->
+    
+    <footer class="footer">
+    
+      <div class="footer-profile">
+    
+        <!-- Profile Image -->
+        <div class="profile-img">
+          <img 
+            src="./src/img/IMG_20260810_090528_668.jpg" 
+            alt="Negar Mohamadi"
+          >
+    
+          <!-- Contact Links -->
+          <div class="contact-menu">
+    
+            <a href="mailto:your@email.com">
+              <span>✉</span>
+              <small>EMAIL</small>
+            </a>
+    
+            <a href="tel:+989123456789">
+              <span>☎</span>
+              <small>PHONE</small>
+            </a>
+    
+            <a 
+              href="https://www.linkedin.com/in/negar-webdev/" 
+              target="_blank"
+            >
+              <span>in</span>
+              <small>LINKEDIN</small>
+            </a>
+    
+            <a href="#">
+              <span>◎</span>
+              <small>INSTAGRAM</small>
+            </a>
+    
+          </div>
+    
+        </div>
+    
+        <!-- Profile Text -->
+        <div class="footer-text">
+          <h3>NEGAR MOHAMMADI</h3>
+          <p>FRONT-END DEVELOPER @2026</p>
+        </div>
+    
+      </div>
+    
+    </footer>
+  </main>
+
+  <script src="./script.js" >
+  
+  </script>
+
+</body>
+</html>
