@@ -8,7 +8,7 @@ automatic focus movement, CVV2 input and a responsive layout.
 
 ## ✨ Preview
 
-![Bank Card UI Preview](./assets/bank-card-preview.png)
+![Bank Card Preview](./src/img/preview.png)
 
 ## 🚀 Demo
 
