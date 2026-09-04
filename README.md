@@ -6,9 +6,9 @@ JavaScript**.
 The project includes a live card preview, segmented card-number inputs,
 automatic focus movement, CVV2 input and a responsive layout.
 
-## ✨ Preview
+## 📸 Preview
 
-./src/img/preview.png)
+![Bank Card Preview](./src/img/preview.png.JPG)
 
 ## 🚀 Demo
 
