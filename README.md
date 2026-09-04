@@ -8,11 +8,11 @@ automatic focus movement, CVV2 input and a responsive layout.
 
 ## ✨ Preview
 
-![Bank Card Preview](./src/img/preview.png)
+./src/img/preview.png)
 
 ## 🚀 Demo
 
-[**Open Demo →**](.https://negarlmd.github.io/Card-Bank/)
+https://negarlmd.github.io/Card-Bank/
 
 > For a public online demo, deploy the project with GitHub Pages and
 > replace this link with your Pages URL.
